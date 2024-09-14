@@ -27,7 +27,7 @@ Organize suas metas de forma simples e eficiente com **In.Orbit**. Acompanhe seu
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/MatheusFerreira71/in_orbit
+   git clone https://github.com/MatheusFerreira71/in_orbit_web
 
 2. Navegue até o diretório do projeto:
 
