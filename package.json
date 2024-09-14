@@ -1,0 +1,62 @@
+{
+  "name": "in_orbit_web",
+  "private": false,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "license": "MIT",
+  "keywords": [
+    "React",
+    "React Hookform",
+    "Radix",
+    "Dayjs",
+    "Tailwind",
+    "Lucide Icons",
+    "Biome",
+    "Tanstack",
+    "Vite",
+    "Typescript",
+    "Zod"
+  ],
+  "description": "Organize suas metas de forma simples e eficiente com In.Orbit. Acompanhe seu progresso, defina prazos e risque as metas batidas para se manter focado nos seus objetivos pessoais e profissionais.",
+  "dependencies": {
+    "@hookform/resolvers": "^3.9.0",
+    "@radix-ui/react-dialog": "^1.1.1",
+    "@radix-ui/react-progress": "^1.1.0",
+    "@radix-ui/react-radio-group": "^1.2.0",
+    "@tanstack/react-query": "^5.56.1",
+    "dayjs": "^1.11.13",
+    "lucide-react": "^0.439.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.53.0",
+    "tailwind-merge": "^2.5.2",
+    "tailwind-variants": "^0.2.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.8.3",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.11",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.1"
+  },
+  "homepage": "https://github.com/MatheusFerreira71/in_orbit_web#readme",
+  "bugs": {
+    "url": "https://github.com/MatheusFerreira71/in_orbit_web/issues",
+    "email": "matheusfernandofreire@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusFerreira71/in_orbit_web"
+  },
+  "author": "Matheus Ferreira <matheusfernandofreire@hotmail.com> (https://github.com/MatheusFerreira71/)"
+}
